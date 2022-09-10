@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+}
+
+body {
+    background-image: url(../../images/HD-wallpaper-art001-abstract-art-brush-colors-illustration-kor4-rts-pattern-pink-purple-simple-soft-stain-texture.jpg);
+
+
+}
+
+#cube {
+    border: solid 1px #645CAA;
+    margin: 20px auto;
+    width: 960px;
+    background-color: #EBC7E8;
+}
+
+header {
+    text-align: center;
+}
+
+span {
+    color: #645CAA;
+
+
+}
+
+.info {
+    text-align: left;
+    text-indent: 15px;
+    text-transform: capitalize;
+    margin: 2px;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.line {
+    text-align: center;
+}
+
+img {
+    margin-left: 10px;
+    border-radius: 50%;
+    border: solid 2px black;
+    padding: 2px;
+    background-color: white;
+}
+
+#table p {
+    text-align: center;
+    font-size: 18px;
+}
+
+#table2 {
+    text-align: center;
+    margin-left: 320px;
+}
+
+#list {
+    text-indent: 5px;
+}
+
+#ranking {
+    text-indent: 5px;
+}
+
+#ranking p {
+    border-left: dashed 3px black;
+}
+
+fieldset legend {
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+}
